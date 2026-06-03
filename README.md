@@ -1,10 +1,10 @@
 # Hi, I'm Rohit Singh Rawat 👋
 
-### B.Tech CSE Student @ Graphic Era | C++ & Java Developer
+### B.Tech CSE Student @ Graphic Era | Aspiring Full Stack Developer
 
 - 💻 Currently building responsive web projects with **HTML, CSS, and JS**.
 - 🚀 Solving complex problems using **C++ Data Structures & Algorithms**.
-- 🛠️ Developing backend logic and applications with **Java**.
+- 🛠️ Developing  logic and fixing bugs.
 - ⚡ Focus: Building clean, efficient code and mastering modern UI/UX.
 
 ---
@@ -17,6 +17,6 @@
 ![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 
 ### 📊 GitHub Stats
-![Rsr07k's Stats](https://github-readme-stats.vercel.app/api?username=Rsr07k&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rsr07k&layout=compact&theme=tokyonight)
+![Rsr07k's Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=Rsr07k&show_icons=true&theme=dark)
+![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Rsr07k&layout=compact&theme=dark)
 
